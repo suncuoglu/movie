@@ -57,7 +57,11 @@ public class MovieDetailActivity extends AppCompatActivity {
     }
 
     void setData() {
-        Glide.with(this).load(poster).into(posterImage);
+        if (poster.equals("N/A")){
+            posterImage.setImageResource(R.drawable.default_img);
+        }else {
+            Glide.with(this).load(poster).into(posterImage);
+        }
         yearText.setText(year);
         titleText.setText(title);
         typeText.setText(type.toUpperCase());
