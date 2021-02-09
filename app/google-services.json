@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "850634006602",
+    "firebase_url": "https://movieapp-bb578.firebaseio.com",
+    "project_id": "movieapp-bb578",
+    "storage_bucket": "movieapp-bb578.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850634006602:android:f5e14ae885cca880f746b3",
+        "android_client_info": {
+          "package_name": "com.suncuoglu.movieApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "850634006602-gpbakia266fim72085afaiv3plogk0b1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBkACPtzGmnz3EJ1KqVs8qHreVgfpvJnk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "850634006602-gpbakia266fim72085afaiv3plogk0b1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

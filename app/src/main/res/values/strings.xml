@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">movieApp</string>
+    <string name="titlename">TitleName</string>
+    <string name="genre">Genre</string>
+    <string name="runtime">Runtime</string>
+    <string name="movie_name">Film adı ...</string>
+    <string name="search">Ara</string>
+    <string name="year">Year</string>
+    <string name="type">Type</string>
+    <string name="movie_app">Movie App</string>
+</resources>
